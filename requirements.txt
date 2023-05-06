@@ -2,6 +2,7 @@ scikit-learn
 flask
 numpy
 pandas
+Xgboost
 openpyxl
 gunicorn
 pip
